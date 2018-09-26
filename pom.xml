@@ -36,7 +36,7 @@
 				<configuration>
                     <deploymentType>arm</deploymentType>
 					<username>pinnintimanasa25</username>
-					<password>mounica_4588</password>
+					<password>Mounica_4588</password>
 					<target>local</target>
 					<targetType>server</targetType>
 					<environment>Sandbox</environment>
@@ -45,7 +45,7 @@
 					<execution>
 						<id>deploy</id>
 						<phase>deploy</phase>
-						<goals>
+						<goals> 
 							<goal>deploy</goal>
 						</goals>
 						</execution>
